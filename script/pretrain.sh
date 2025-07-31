@@ -26,4 +26,4 @@ cp -r ./*py ./device_pretrain
 cd ./device_pretrain
 
 echo "start training"
-mpirun python ./pretrain.py
+mpirun python ../pretrain.py

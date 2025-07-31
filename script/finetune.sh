@@ -26,4 +26,4 @@ cp -r ./*py ./device_finetune
 cd ./device_finetune
 
 echo "start training"
-mpirun python ./finetune.py
+mpirun python ../finetune.py
