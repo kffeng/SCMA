@@ -25,3 +25,10 @@ Start pre-training the SCMA model using the following command.
 
 ```bash
 bash script/pretrain.sh
+
+## 🏃 Fine-tuning
+
+Start fine-tuning the SCMA model using the following command.
+
+```bash
+bash script/finetune.sh
